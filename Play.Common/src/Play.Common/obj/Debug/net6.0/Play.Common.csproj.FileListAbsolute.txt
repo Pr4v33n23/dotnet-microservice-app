@@ -1,0 +1,12 @@
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.csproj.AssemblyReference.cache
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.AssemblyInfoInputs.cache
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.AssemblyInfo.cs
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.csproj.CoreCompileInputs.cache
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/bin/Debug/net6.0/Play.Common.deps.json
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/bin/Debug/net6.0/Play.Common.dll
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/bin/Debug/net6.0/Play.Common.pdb
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.dll
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/obj/Debug/net6.0/Play.Common.pdb
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/obj/Debug/net6.0/ref/Play.Common.dll
+/Users/praveen/RiderProjects/Play.Common/src/Play.Common/bin/Debug/net6.0/ref/Play.Common.dll
