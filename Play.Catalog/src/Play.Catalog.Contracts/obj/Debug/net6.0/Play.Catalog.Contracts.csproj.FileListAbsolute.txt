@@ -1,0 +1,12 @@
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net6.0/Play.Catalog.Contracts.deps.json
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net6.0/Play.Catalog.Contracts.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net6.0/Play.Catalog.Contracts.pdb
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.csproj.AssemblyReference.cache
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.AssemblyInfo.cs
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net6.0/Play.Catalog.Contracts.pdb
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/obj/Debug/net6.0/ref/Play.Catalog.Contracts.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/bin/Debug/net6.0/ref/Play.Catalog.Contracts.dll

@@ -259,3 +259,14 @@
 /Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
 /Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/Play.Common.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/Automatonymous.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/GreenPipes.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/MassTransit.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/MassTransit.AspNetCoreIntegration.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/MassTransit.RabbitMqTransport.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/NewId.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/Play.Catalog.Contracts.dll
+/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Service/bin/Debug/net6.0/Play.Catalog.Contracts.pdb

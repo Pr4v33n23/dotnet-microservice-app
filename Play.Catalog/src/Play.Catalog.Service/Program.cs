@@ -10,6 +10,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddMongo();
 builder.Services.AddMongoRepository<Item>("items");
+builder.Services.AddMassTransitWithRabbitMQ();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

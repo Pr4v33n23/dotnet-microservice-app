@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/Play.Catalog.Contracts.csproj": {}
+  },
+  "projects": {
+    "/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/Play.Catalog.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/Play.Catalog.Contracts.csproj",
+        "projectName": "Play.Catalog.Contracts",
+        "projectPath": "/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/Play.Catalog.Contracts.csproj",
+        "packagesPath": "/Users/praveen/.nuget/packages/",
+        "outputPath": "/Users/praveen/RiderProjects/Play.Catalog/src/Play.Catalog.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/praveen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/Users/praveen/RiderProjects/packages": {},
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
